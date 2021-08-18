@@ -1,4 +1,4 @@
-### Hi there 👋
+### 我们与我们的未来，在无限的未知中前行。
 
 <!--
 **MoeMoesakura68000/moemoesakura68000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![moemoesakura68000's GitHub stats](https://github-readme-stats.vercel.app/api?username=moemoesakura68000&count_private=true&show_icons=true&theme=dracula)
