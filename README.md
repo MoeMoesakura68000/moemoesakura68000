@@ -16,4 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
+
+
+
 ![moemoesakura68000's GitHub stats](https://github-readme-stats.vercel.app/api?username=moemoesakura68000&count_private=true&show_icons=true&theme=dracula)
