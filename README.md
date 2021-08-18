@@ -1,5 +1,6 @@
-### 我们与我们的未来，在无限的未知中前行。
+### 我们与我们的未来，在无限的未知中前行
 
+![](https://i0.hdslb.com/bfs/article/4720bd45e45fb5fb5dd78c3e25acbf397c1fb1e2.jpg@942w_666h_progressive.jpg)
 <!--
 **MoeMoesakura68000/moemoesakura68000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
